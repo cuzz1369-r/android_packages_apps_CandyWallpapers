@@ -16,34 +16,32 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="partner_wallpapers" translatable="false">
-        <item>ventana</item>
-        <item>seasidequarry</item>
-        <item>glassbearings</item>
-        <item>colorpass</item>
-        <item>fabrik</item>
-        <item>materialeye</item>
-        <item>thedeepblue</item>
-        <item>shelfhome</item>
-        <item>arc</item>
-        <item>harmony</item>
-        <item>headcase</item>
-        <item>iconoclast</item>
-        <item>slantstyle</item>
+        <item>candysix0</item>
+        <item>candysix1</item>
+        <item>candysix2</item>
+        <item>candysix3</item>
+        <item>candysix4</item>
+        <item>candysix5</item>
+        <item>candysix6</item>
+        <item>candysix7</item>
+        <item>candysix8</item>
+        <item>candysix9</item>
+        <item>candysix10</item>
+        <item>candysix11</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>Ventana - Dave Kover</item>
-        <item>Seaside Quarry - Pablo Garcia Saldana</item>
-        <item>Glass Bearings - Dave Kover</item>
-        <item>Color Pass - Dave Kover</item>
-        <item>Fabrik - m0851</item>
-        <item>Material Eye - Asher Simonds</item>
-        <item>The Deep Blue - NASA</item>
-        <item>Shelf Home - Dave Kover</item>
-        <item>Arc - Asher Simonds</item>
-        <item>Harmony - Asher Simonds</item>
-        <item>Headcase - Asher Simonds</item>
-        <item>Iconoclast - Asher Simonds</item>
-        <item>Slantstyle - Asher Simonds</item>
+        <item>candysix0 - Joseph Powell</item>
+        <item>candysix1 - Joseph Powell</item>
+        <item>candysix2 - Joseph Powell</item>
+        <item>candysix3 - Joseph Powell</item>
+        <item>candysix4 - Joseph Powell</item>
+        <item>candysix5 - Joseph Powell</item>
+        <item>candysix6 - Joseph Powell</item>
+        <item>candysix7 - Joseph Powell</item>
+        <item>candysix8 - Joseph Powell</item>
+        <item>candysix9 - Joseph Powell</item>
+        <item>candysix10 - Joseph Powell</item>
+        <item>candysix11 - Joseph Powell</item>
     </string-array>
 </resources>
