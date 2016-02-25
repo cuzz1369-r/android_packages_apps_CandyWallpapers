@@ -1,47 +1,144 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016 The CyanogenMod Project
+     copyright (c) 2016 The cyanogenMod Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
      You may obtain a copy of the License at
 
-          http://www.apache.org/licenses/LICENSE-2.0
+          http://www.apache.org/licenses/LIcENsE-2.0
 
      Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
+     distributed under the License is distributed on an "As Is" bAsIs,
+     WITHOUT WARRANTIEs OR cONDITIONs OF ANY KIND, either express or implied.
+     see the License for the specific language governing permissions and
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="partner_wallpapers" translatable="false">
+        <item>bacandy</item>
+        <item>bcandy</item>
+        <item>candy</item>
+        <item>candy1</item>
+        <item>candy2</item>
+        <item>candy3</item>
+        <item>candy4</item>
+        <item>candy5</item>
+        <item>candy6</item>
+        <item>candy7</item>
+        <item>candy8</item>
+        <item>candy9</item>
+        <item>candy10</item>
+        <item>candy11</item>
+        <item>candy12</item>
+        <item>candy13</item>
+        <item>candy14</item>
+        <item>candy15</item>
+        <item>candy16</item>
+        <item>candy17</item>
+        <item>candy18</item>
+        <item>candy19</item>
+        <item>candy20</item>
+        <item>candy21</item>
+        <item>candy22</item>
+        <item>candy23</item>
+        <item>candy24</item>
+        <item>candy25</item>
+        <item>candy26</item>
+        <item>candyborder</item>
+        <item>candydrops</item>
+        <item>candyshit</item>
         <item>candysix0</item>
         <item>candysix1</item>
         <item>candysix2</item>
-        <item>candysix3</item>
-        <item>candysix4</item>
-        <item>candysix5</item>
-        <item>candysix6</item>
-        <item>candysix7</item>
-        <item>candysix8</item>
-        <item>candysix9</item>
         <item>candysix10</item>
         <item>candysix11</item>
+        <item>candysix15</item>
+        <item>candysix16</item>
+        <item>candysix17</item>
+        <item>candysix18</item>
+        <item>candysix20</item>
+        <item>candysix21</item>
+        <item>cdy5</item>
+        <item>cdy6</item>
+        <item>cdy7</item>
+        <item>cdy8</item>
+        <item>cdy9</item>
+        <item>cdy10</item>
+        <item>cdy61</item>
+        <item>cdy67</item>
+        <item>dark1</item>
+        <item>default</item>
+        <item>gplus1868956036</item>
+        <item>gplus748116611</item>
+        <item>gplus847907036</item>
+        <item>gplus1769231456</item>
+        <item>graf</item>
+        <item>grafcandy</item>
+        <item>test5</item>
+    </string-array>     
+   
+    <string-array name="info" translatable="false">
+        <item>bacandy - Joe P</item>
+        <item>bcandy - Joe P</item>
+        <item>candy - Joe P</item>
+        <item>candy1 - Joe P</item>
+        <item>candy2 - Joe P</item>
+        <item>candy3 - Joe P</item>
+        <item>candy4 - Joe P</item>
+        <item>candy5 - Joe P</item>
+        <item>candy6 - Joe P</item>
+        <item>candy7 - Joe P</item>
+        <item>candy8 - Joe P</item>
+        <item>candy9 - Joe P</item>
+        <item>candy10 - Joe P</item>
+        <item>candy11 - Joe P</item>
+        <item>candy12 - Joe P</item>
+        <item>candy13 - Joe P</item>
+        <item>candy14 - Joe P</item>
+        <item>candy15 - Joe P</item>
+        <item>candy16 - Joe P</item>
+        <item>candy17 - Joe P</item>
+        <item>candy18 - Joe P</item>
+        <item>candy19 - Joe P</item>
+        <item>candy20 - Joe P</item>
+        <item>candy21 - Joe P</item>
+        <item>candy22 - Joe P</item>
+        <item>candy23 - Joe P</item>
+        <item>candy24 - Joe P</item>
+        <item>candy25 - Joe P</item>
+        <item>candy26 - Joe P</item>
+        <item>candyborder - Joe P</item>
+        <item>candydrops - Joe P</item>
+        <item>candyshit - Joe P</item>
+        <item>candysix0 - Joe P</item>
+        <item>candysix1 - Joe P</item>
+        <item>candysix2 - Joe P</item>
+        <item>candysix10 - Joe P</item>
+        <item>candysix11 - Joe P</item>
+        <item>candysix15 - Joe P</item>
+        <item>candysix16 - Joe P</item>
+        <item>candysix17 - Joe P</item>
+        <item>candysix18 - Joe P</item>
+        <item>candysix20 - Joe P</item>
+        <item>candysix21 - Joe P</item>
+        <item>cdy5 - Joe P</item>
+        <item>cdy6 - Joe P</item>
+        <item>cdy7 - Joe P</item>
+        <item>cdy8 - Joe P</item>
+        <item>cdy9 - Joe P</item>
+        <item>cdy10 - Joe P</item>
+        <item>cdy61 - Joe P</item>
+        <item>cdy67 - Joe P</item>
+        <item>dark1 - Joe P</item>
+        <item>default - Joe P</item>
+        <item>gplus1868956036 - Joe P</item>
+        <item>gplus-748116611 - Joe P</item>
+        <item>gplus-847907036 - Joe P</item>
+        <item>gplus-1769231456 - Joe P</item>
+        <item>graf - Joe P</item>
+        <item>grafcandy - Joe P</item>
+        <item>test5 - Joe P</item>
     </string-array>
 
-    <string-array name="info" translatable="false">
-        <item>candysix0 - Joseph Powell</item>
-        <item>candysix1 - Joseph Powell</item>
-        <item>candysix2 - Joseph Powell</item>
-        <item>candysix3 - Joseph Powell</item>
-        <item>candysix4 - Joseph Powell</item>
-        <item>candysix5 - Joseph Powell</item>
-        <item>candysix6 - Joseph Powell</item>
-        <item>candysix7 - Joseph Powell</item>
-        <item>candysix8 - Joseph Powell</item>
-        <item>candysix9 - Joseph Powell</item>
-        <item>candysix10 - Joseph Powell</item>
-        <item>candysix11 - Joseph Powell</item>
-    </string-array>
 </resources>
